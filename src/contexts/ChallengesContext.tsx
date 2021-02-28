@@ -1,4 +1,4 @@
-import { createContext, useState, ReactNode} from 'react';
+import { createContext, useState, ReactNode, useEffect} from 'react';
 import challenges from '../../challenges.json';
 
 interface Challenge{
@@ -34,6 +34,10 @@ export function ChallengesProvider({ children }: ChallengesProviderPros ) {
 
     const experienceToNextlevel = Math.pow((level + 1) * 4 , 2);
 
+    useEffect( ()=>{
+        Notification.requestPermission();
+    }, [])
+
     function Levelup(){
         setLevel(level + 1);
     }
@@ -42,7 +46,15 @@ export function ChallengesProvider({ children }: ChallengesProviderPros ) {
         const radonChallengeIndex = Math.floor(Math.random() * challenges.length);
         const challenge = challenges[radonChallengeIndex];
 
-        setActiveChallenge(challenge);
+        setActiveChallenge(challenge)
+
+        new Audio('/notification.mp3').play();
+
+        if(Notification.permission === 'granted'){
+            new Notification('Novo desafio 🎉', {
+                body: `Valendo ${challenge.amount}XP!`
+            });
+        }
     }
 
     function resetChallenges(){
