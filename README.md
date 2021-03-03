@@ -1,9 +1,6 @@
 ## Move.it 
-<p align="center">
-    <img src="./.github/moveon.2.png">
-</p>
 
-<p>
+<p align="center">
     <img src="./.github/moveon.1.png" alt="Imagem principal">
 </p>
 
@@ -65,8 +62,6 @@ Feito com ❤️ por Kelvyn Reis 👋🏽 Entre em contato!
 [![Gmail Badge](https://img.shields.io/badge/-kelvyn2reis-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelvyn2reis@gmail.com)](mailto:kelvyn2reis@gmail.com)
 
 ## Licença
-<p>
-    Copyright © 2021 [Sogeking07](https://github.com/Sogeking07)
-    <br/>
-    This project is [GNU](https://github.com/Sogeking07/Nlw-4/blob/main/LICENSE) licensed.
-</p>
+
+- Copyright © 2021 [Sogeking07](https://github.com/Sogeking07)
+- This project is [GNU](https://github.com/Sogeking07/Nlw-4/blob/main/LICENSE) licensed.
