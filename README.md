@@ -19,10 +19,10 @@ O layout do projeto pode ser acessado pelo [Figma](https://www.figma.com/) atrav
 
 Neste projeto foi utilizado as seguintes tecnologias.
 
-[React.js](https://pt-br.reactjs.org/)
-[Next.js](https://nextjs.org/)
-[TypeScript](https://www.typescriptlang.org/)
-[styledComponents](https://styled-components.com/)
+--[React.js](https://pt-br.reactjs.org/)
+--[Next.js](https://nextjs.org/)
+--[TypeScript](https://www.typescriptlang.org/)
+--[styledComponents](https://styled-components.com/)
 
 ##  📚  Funcionalidades
 
@@ -33,7 +33,7 @@ Neste projeto foi utilizado as seguintes tecnologias.
 - Cada desafio feito voçê ganha experiencia
 - Usuario pode subir de nível.
 
-## Instalação
+## 🔧 Instalação 
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
@@ -61,5 +61,5 @@ $ npm run dev
 
 Feito com ❤️ por Kelvyn Reis 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelvyn-dos-reis-511b201b9/)](https://www.linkedin.com/in/kelvyn-dos-reis-511b201b9/)
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelvyn2reis@gmail.com)](mailto:kelvyn2reis@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-@Kelvyn%20Dos%20Reis-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/kelvyn-dos-reis-511b201b9/)](https://www.linkedin.com/in/kelvyn-dos-reis-511b201b9/)
+[![Gmail Badge](https://img.shields.io/badge/-kelvyn2reis@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelvyn2reis@gmail.com)](mailto:kelvyn2reis@gmail.com)
