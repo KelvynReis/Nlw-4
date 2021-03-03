@@ -62,7 +62,7 @@ $ npm run dev
 Feito com ❤️ por Kelvyn Reis 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-@Kelvyn%20Dos%20Reis-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/kelvyn-dos-reis-511b201b9/)](https://www.linkedin.com/in/kelvyn-dos-reis-511b201b9/)
-[![Gmail Badge](https://img.shields.io/badge/-kelvyn2reis@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelvyn2reis@gmail.com)](mailto:kelvyn2reis@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-kelvyn2reis-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelvyn2reis@gmail.com)](mailto:kelvyn2reis@gmail.com)
 
 ## Licença
 
