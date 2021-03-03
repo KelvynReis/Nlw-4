@@ -1,10 +1,10 @@
 ## Move.it 
 <p align="center">
-    <img src="/public/icons/favicon.png">
+    <img src="../public/icons/favicon.png">
 </p>
 
 <p>
-    <img src="./github/moveon.1.png" alt="Imagem principal">
+    <img src="./.github/moveon.1.png" alt="Imagem principal">
 </p>
 
 ## 🚀 Projeto
@@ -19,10 +19,10 @@ O layout do projeto pode ser acessado pelo [Figma](https://www.figma.com/) atrav
 
 Neste projeto foi utilizado as seguintes tecnologias.
 
---[React.js](https://pt-br.reactjs.org/)
---[Next.js](https://nextjs.org/)
---[TypeScript](https://www.typescriptlang.org/)
---[styledComponents](https://styled-components.com/)
+- [React.js](https://pt-br.reactjs.org/)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [styledComponents](https://styled-components.com/)
 
 ##  📚  Funcionalidades
 
