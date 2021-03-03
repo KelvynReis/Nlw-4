@@ -1,6 +1,6 @@
 ## Move.it 
 <p align="center">
-    <img src="./public/icons/favicon/logo-full.svg">
+    <img src="/public/icons/favicon.png">
 </p>
 
 <p>
