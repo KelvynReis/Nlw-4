@@ -8,7 +8,7 @@ export function Profile(){
 
     return(
         <div className={styles.ProfileContainer}>
-            <img src="https://github.com/Sogeking07.png" alt="Kelvyn Reis"/>
+            <img src="https://github.com/KelvynReis.png" alt="Kelvyn Reis"/>
             <div>
                 <strong>Kelvyn Reis</strong>
                 <p>
